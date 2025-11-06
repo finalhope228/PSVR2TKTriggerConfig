@@ -1,7 +1,6 @@
 # PSVR2ToolkitTriggerConfig-finalhope228
 App to set the parameters of the PSVR2 adaptive triggers, using PSVR2Toolkit. 
 
-PSVR2TKTriggerConfig-finalhope228 Latest
 Based on the work of: https://github.com/s-ilent
 
 New features:
