@@ -5,7 +5,7 @@ Based on the work of: https://github.com/s-ilent
 
 New features:
 - Every setting saved automatically.
-- Exit after 5s option (Launch with command " -close" to exit after 1s!)
+- Exit after 5s option (Launch with command " -close" to exit after 1s)
 - Disable All Effects on Startup option
 Removed:
 - Manual Load/Save. (it wasn't working)
