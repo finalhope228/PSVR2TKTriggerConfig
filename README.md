@@ -7,6 +7,7 @@ New features:
 - Every setting saved automatically.
 - Exit after 5s option (or launch with command " -close" to exit after 1s)
 - Disable All Effects on Startup option
+
 Removed:
 - Manual Load/Save. (it wasn't working)
 
